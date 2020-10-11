@@ -25,7 +25,7 @@ print(zoo)
 # Номера при выводе должны быть понятны простому человеку, не программисту.
 # TODO здесь ваш код
 print(zoo.index("lion") + 1)
-print(zoo.index("lark"))
+print(zoo.index("lark")) 
 
 
 
